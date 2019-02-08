@@ -15,6 +15,7 @@ setup(
     license='MIT License',  # example license
     description='A Django app for easy dynamic navigation',
     long_description=README,
+    long_description_content_type='text/markdown',
     url='https://github.com/coryg/django-navigation-field',
     author='Cory Glanton',
     author_email='corydg@gmail.com',
